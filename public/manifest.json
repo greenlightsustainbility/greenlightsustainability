@@ -1,6 +1,6 @@
 {
-  "short_name": "greenlight-sustainability",
-  "name": "greenlight-sustainability",
+  "short_name": "GreenPath-sustainability",
+  "name": "GreenPath-sustainability",
   "icons": [
     {
       "src": "favicon.ico",
@@ -12,4 +12,5 @@
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
+
 }
